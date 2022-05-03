@@ -196,6 +196,6 @@ Sword with textures.
 <br>Figure 45</br>
 <br></br>
 
-<img src="2d_art/traodoor.png"  height="270">
+<img src="2d_art/trapdoor.png"  height="270">
 <br>Figure 46</br>
 <br></br>
